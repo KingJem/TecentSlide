@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>000154.jpg</filename>
+	<path>D:\code\matchineLearn\003_object_detection\ObjectDetectionCenterNet_TecentSlide\VOCdevkit\VOC2012\JPEGImages\000154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>195</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>28</ymin>
+			<xmax>293</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
